@@ -11,7 +11,7 @@
 ## 如何使用
 >- git clone "https://github.com/fzysdsj/todoMVC-angular.js-demo.git"
 ## 在线测试
->-"https://fzysdsj.github.io/todoMVC-angular.js-demo/#/"
+>- "https://fzysdsj.github.io/todoMVC-angular.js-demo/#/"
 ## 使用心得
 >- angular双向数据绑定不要太爽。
 - 我收回以前说的那些话，angular会有未来的，并且是很广大的未来，就像我钟爱的node一样。
